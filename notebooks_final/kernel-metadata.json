@@ -1,0 +1,28 @@
+{
+  "id": "rmahajani3/wiki-context-retrieval",
+  "id_no": 45077609,
+  "title": "Wiki Context Retrieval",
+  "code_file": "wiki-context-retrieval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "jjinho/blingfire-018",
+    "tomokihirose/faiss-gpu-173-python310",
+    "datafan07/llm-whls",
+    "inversion/sentence-transformers-222",
+    "jjinho/wikipedia-2023-07-faiss-index",
+    "jjinho/wikipedia-20230701"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "kaggle-llm-science-exam"
+  ],
+  "model_sources": []
+}
