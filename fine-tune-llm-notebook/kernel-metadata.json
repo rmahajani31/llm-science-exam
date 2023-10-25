@@ -1,0 +1,22 @@
+{
+  "id": "rmahajani3/fine-tune-llm",
+  "id_no": 45129450,
+  "title": "Fine Tune LLM",
+  "code_file": "fine-tune-llm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "cdeotte/60k-data-with-context-v2",
+    "datafan07/llm-whls"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "kaggle-llm-science-exam"
+  ],
+  "model_sources": []
+}

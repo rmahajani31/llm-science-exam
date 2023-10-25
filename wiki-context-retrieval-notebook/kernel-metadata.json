@@ -8,12 +8,13 @@
   "is_private": true,
   "enable_gpu": true,
   "enable_tpu": false,
-  "enable_internet": true,
+  "enable_internet": false,
   "keywords": [
     "gpu"
   ],
   "dataset_sources": [
     "jjinho/blingfire-018",
+    "rmahajani3/deberta-multiple-choice-model",
     "tomokihirose/faiss-gpu-173-python310",
     "datafan07/llm-whls",
     "inversion/sentence-transformers-222",
