@@ -16,7 +16,9 @@
     "jjinho/blingfire-018",
     "rmahajani3/deberta-multiple-choice-model",
     "tomokihirose/faiss-gpu-173-python310",
+    "rmahajani3/fine-tuned-open-book-model",
     "datafan07/llm-whls",
+    "mgoksu/llm-science-run-context-2",
     "inversion/sentence-transformers-222",
     "jjinho/wikipedia-2023-07-faiss-index",
     "jjinho/wikipedia-20230701"
